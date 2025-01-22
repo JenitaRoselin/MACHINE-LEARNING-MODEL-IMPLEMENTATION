@@ -82,6 +82,9 @@ The model's prediction is then displayed to the user. If the prediction is 1, it
 
 # Ouput Screenshot:
 
+![Image](https://github.com/user-attachments/assets/844f9027-7438-401a-b472-176b55446cd3)
+
+![Image](https://github.com/user-attachments/assets/a23e75f2-52cd-46b0-b74b-9c8cc716db0c)
 
 
 
